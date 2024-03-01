@@ -9,7 +9,7 @@
 - FastPeopleSearch: https://fastpeoplesearch.com/
 - Have I Been Pwned: https://haveibeenpwned.com/
 - Black Book: https://blackbookonline.info
-- True People Search: htps://truepeoplesearch.com
+- True People Search: https://truepeoplesearch.com
 - Spy Dialer: https://spydialer.com
 - Whitepages: https://whitepages.com  
 
