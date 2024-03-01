@@ -8,6 +8,10 @@
 ## People
 - FastPeopleSearch: https://fastpeoplesearch.com/
 - Have I Been Pwned: https://haveibeenpwned.com/
+- Black Book: https://blackbookonline.info
+- True People Search: htps://truepeoplesearch.com
+- Spy Dialer: https://spydialer.com
+- Whitepages: https://whitepages.com  
 
 ## Maps and Geolocation
 - Google Maps: https://www.google.com/maps
